@@ -39,7 +39,7 @@ header img:hover{
     transform: rotate(360deg);
 }
 header{
-    background-image: url(/src/image/img3.jpg);
+    background-image: url(bio/src/image/img3.jpg);
     background-size: cover;
     backdrop-filter: blur(300px);
     box-shadow: 0 0 10px black;
